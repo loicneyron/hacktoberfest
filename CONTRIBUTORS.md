@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [LoicNeyron](https://github.com/loicneyron)
+- Place: Saint-Etienne, France
+- Bio: Web Junior Developer PHP, JavaScript, Java, Laravel, Symphonie 
+- Github: [LoicNeyron](https://github.com/loicneyron)
